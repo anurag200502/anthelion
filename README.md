@@ -13,7 +13,7 @@ Table of Contents
   * [3rd Party Libraries] (#3rd-party-libraries)
 * [Anthelion](#anthelion) 
 * [References](#references)
-
+CONTRIBUTING.md
 Nutch-Anthelion Plugin
 ---------
 The plugin uses an online learning approach to predict data-rich web pages based on the context of the page as well as using feedback from the extraction of metadata from previously seen pages [1].
